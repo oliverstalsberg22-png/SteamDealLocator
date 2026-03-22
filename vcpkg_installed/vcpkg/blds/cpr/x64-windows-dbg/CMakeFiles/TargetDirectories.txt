@@ -1,0 +1,16 @@
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/CMakeFiles/edit_cache.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/CMakeFiles/list_install_components.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/CMakeFiles/install.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/CMakeFiles/install/local.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/cpr/CMakeFiles/cpr.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/cpr/CMakeFiles/edit_cache.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/cpr/CMakeFiles/rebuild_cache.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/cpr/CMakeFiles/list_install_components.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/cpr/CMakeFiles/install.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/cpr/CMakeFiles/install/local.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/include/CMakeFiles/edit_cache.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/include/CMakeFiles/rebuild_cache.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/include/CMakeFiles/list_install_components.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/include/CMakeFiles/install.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-dbg/include/CMakeFiles/install/local.dir

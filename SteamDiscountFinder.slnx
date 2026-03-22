@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SteamDiscountFinder.vcxproj" Id="bea7b954-fc89-43f1-a1e1-9d60a24e8bab" />
+</Solution>

@@ -1,0 +1,2 @@
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
