@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-rel/cmake_install.cmake",
-		"C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-rel/cpr/cmake_install.cmake",
-		"C:/Users/olive/OneDrive/Desktop/C code/SteamDiscountFinder/vcpkg_installed/vcpkg/blds/cpr/x64-windows-rel/include/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
